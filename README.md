@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This project is a simple application which helps users track their assignment progress and helps them with additional information.
+
+Requirements to run the application
+
+Install a Code Edditor -> https://code.visualstudio.com/download (Visual Studio Code / My preference)
+Install Node.js -> https://nodejs.org/en/download/
+Install the dependencies
+How To Get Started
+Open your code edditor. Clone this repository using the command - git clone
+Running The Application
+Once all the dependencies are installed:
+2.Open project in code edditor
+3.Open a terminal with the main path
+4.Run command npm start
+5.The project is alos hosted on Hiroku
+
 ## Available Scripts
 
 In the project directory, you can run:
